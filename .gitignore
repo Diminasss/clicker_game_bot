@@ -1,0 +1,6 @@
+.env
+JSONs/
+my_app.log
+.idea/
+.venv/
+__pycache__/
